@@ -1,0 +1,8 @@
+{
+  "@@last_modified": "2019-02-20T15:20:55.993198",
+  "close": "Close",
+  "@close": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
